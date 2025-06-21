@@ -41,8 +41,8 @@ The assignment required implementing four main image processing tasks using Pyth
 │ │ ├── rotated_color_45_degrees.png
 │ │ └── ... (other output images for task 3)
 │ └── task-4/
-│ ├── block_averaged_gray_3x3.png
-│ └── ... (other output images for task 4)
+│   ├── block_averaged_gray_3x3.png
+│   └── ... (other output images for task 4)
 ├── sanath.png # Sample image used for processing
 ├── task1_intensity_reduction.py # Script for Task 1
 ├── task2_spatial_averaging.py # Script for Task 2
